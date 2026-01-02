@@ -1,34 +1,111 @@
+# Hey, I'm Surya Bhanu Pandey 👋
 
-# 💫 About Me:
-🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Frontend Designing <br>⚡ Fun fact - I am lazy but smart
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things)
 
-[![](https://komarev.com/ghpvc/?username=Suryabhanupandey&color=000000)](https://github.com/Suryabhanupandey?tab=repositories)
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryabhanupandey ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surya-bhanu-pandey-00664628b) 
+</div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suryabhanupandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=suryabhanupandey&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suryabhanupandey&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+---
+
+## 🚀 About Me
+
+Hi! I'm Surya, a passionate **Frontend Developer** building visually appealing and high-performance web apps.  
+
+- 🔭 Currently working on **Web Development**  
+- 👯 Open to collaborate on **Open Source Projects**  
+- 🤝 Seeking help with **Advanced JavaScript & React**  
+- 🌱 Currently learning **ReactJS**  
+- 💬 Ask me about **Frontend Designing & UI/UX**  
+- ⚡ Fun fact: *I am lazy but smart* 😄  
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/suryabhanupandey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surya-bhanu-pandey-00664628b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryabhanupandey@gmail.com)
+
+</div>
+
+---
+
+## 💡 Skills & Tools
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryabhanupandey&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryabhanupandey&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryabhanupandey&theme=radical&hide_border=true)
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=suryabhanupandey&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=suryabhanupandey&theme=radical&no-frame=true&row=1)
+
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
+
+## 🖼️ Projects Showcase
+
+| Project | Preview |
+|---------|--------|
+| QR Code Generator | [Live Demo](https://qrcodegenraater.netlify.app/) |
+| Earth Website | [Live Demo](https://dulcet-syrniki-6d6d7e.netlify.app/) |
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suryabhanupandey&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-Suryabhanupandey/Suryabhanupandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryabhanupandey&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=suryabhanupandey&color=blueviolet&style=flat-square)
+
+### Show some ❤️ by starring repositories!
+
+</div>
